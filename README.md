@@ -10,7 +10,7 @@ Python | Django | MERN | AI Enthusiast
 
 🚀 Python Developer at Upwork.
 
-🔭 software engineer at ALX
+🔭 MERN Stack Developer.
 
 🌱 Python developer with 3+ years of experience**
 
