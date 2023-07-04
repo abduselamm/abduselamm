@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/111492530/215350400-6d1076a7-7321-4185-94dd-7243b5d671e0.png)
 
 
-Hi, I'm Abduselam Mohammed Hasssen
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abduselam Mohammed</h1>
+    
 
 Python | Django | MERN | AI Enthusiast
 
