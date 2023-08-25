@@ -13,7 +13,7 @@ Python | Django | MERN | AI Enthusiast
 
 🔭 MERN Stack Developer.
 
-🌱 Python developer with 3+ years of experience**
+🌱 Python developer with 4+ years of experience**
 
 👯 I’m looking to collaborate on OpenSource Projects
 
