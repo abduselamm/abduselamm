@@ -4,16 +4,12 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abduselam Mohammed</h1>
     
 
-Python | Django | MERN | AI Enthusiast
+Cloud Engineer | System Engineer | MS-365 | VMware vSphere, vSAN, | Dell VxRail | Lenovo Think X | Azure | AWS | GCP | Docker | K8s | Veeam | DellEMC vRP | Python
 
 🙋‍♂️ About Me!
 
 
-🚀 Python Developer at Upwork.
-
-🔭 MERN Stack Developer.
-
-🌱 Python developer with 4+ years of experience**
+Cloud and System Engineer and Solution Architect, software professional skilled in designing and implementing optimized systems. With experience in Dell Vxrail, VMware Vsphere, VSAN, Dell Recover Point, Microsoft Azure, AWS, Veeam Backup Solution, Docker, Kubernetes, familiarity with Python, Django, Oracle Cloud Infrastructure, Alibaba, and Nutanix. I can contribute to building efficient and scalable solutions. My problem-solving Skills, teamwork abilities, and drive success make me a valuable asset. Let's build the future together.
 
 👯 I’m looking to collaborate on OpenSource Projects
 
