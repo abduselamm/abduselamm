@@ -4,12 +4,20 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abduselam Mohammed</h1>
     
 
-Cloud Engineer | System Engineer | MS-365 | VMware vSphere, vSAN, | Dell VxRail | Lenovo Think X | Azure | AWS | GCP | Docker | K8s | Veeam | DellEMC vRP | Python
+DevOps Engineer | Cloud Engineer | VMware | OpenShift | Azure | AWS | GCP
 
 🙋‍♂️ About Me!
 
 
-Cloud and System Engineer and Solution Architect, software professional skilled in designing and implementing optimized systems. With experience in Dell Vxrail, VMware Vsphere, VSAN, Dell Recover Point, Microsoft Azure, AWS, Veeam Backup Solution, Docker, Kubernetes, familiarity with Python, Django, Oracle Cloud Infrastructure, Alibaba, and Nutanix. I can contribute to building efficient and scalable solutions. My problem-solving Skills, teamwork abilities, and drive success make me a valuable asset. Let's build the future together.
+DevOps Engineer and Cloud & Systems Engineer with strong experience designing, automating, and operating scalable, secure, and highly available platforms across enterprise and cloud environments.
+
+Currently, I work as a Senior DevOps Engineer, where I design and manage cloud-native and hybrid infrastructures, implement CI/CD pipelines, and support microservices-based architectures in production environments. I have hands-on experience with Docker, Kubernetes (including OpenShift), GitOps using ArgoCD, and Infrastructure as Code with Terraform and CloudFormation.
+
+My background also includes extensive work in modern datacenter and cloud deployments, leveraging technologies such as AWS, Microsoft Azure, Oracle Cloud, Huawei Cloud, and private cloud platforms. I have deep expertise in VMware vSphere, vSAN, Dell VxRail, Nutanix, Veeam, and disaster recovery solutions, ensuring business continuity for mission-critical systems.
+
+I collaborate closely with development teams to automate workflows, enforce DevOps best practices, improve observability, and deliver reliable platforms using monitoring, logging, and tracing tools like Grafana, Loki, OpenTelemetry, and ELK. I am also comfortable using Python and Bash for automation and operational efficiency.
+
+I enjoy solving complex infrastructure challenges, building future-ready platforms, and continuously improving system performance, security, and scalability. I thrive in environments where cloud, DevOps, and infrastructure engineering intersect to deliver real business value.
 
 👯 I’m looking to collaborate on OpenSource Projects
 
