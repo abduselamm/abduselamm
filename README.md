@@ -1,76 +1,180 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abduselam Hassen</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" />
+  I'm Abduselam Hassen
+</h1>
 
 <p align="center">
-  <strong>Senior DevOps Engineer | Cloud & System Architect | Infrastructure Specialist</strong><br>
-  Building secure, scalable, and automated enterprise platforms.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Senior+DevOps+Engineer;Cloud+%26+System+Architect;Infrastructure+Specialist;Building+Secure+%26+Scalable+Platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abduselamm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:dev.abduselam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/abduselamm/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dev.abduselam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/abduselamm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
----
+<hr style="border: 2px solid #00D9FF;" />
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
-I am a **Senior DevOps Engineer and Solution Architect** with a proven track record in designing and automating optimized enterprise systems. My expertise spans the entire lifecycle of cloud-native and hybrid infrastructures—from initial architecture to high-availability production operations.
+I am a **Senior DevOps Engineer and Solution Architect** with a proven track record in designing and automating optimized enterprise systems. My expertise spans the entire lifecycle of cloud-native and hybrid infrastructure solutions.
 
-**Key Highlights:**
-* [cite_start]**Enterprise Experience:** Currently leading DevOps for major financial platforms, including the **CBE SuperApp** and **Connect Ethiopia Remittance** for the Commercial Bank of Ethiopia[cite: 96, 106].
-* [cite_start]**Multi-Cloud & Hybrid Mastery:** Hands-on experience with **AWS, Azure, Huawei Cloud, Oracle Cloud**, and on-premise solutions like **VMware vSphere** and **Dell VxRail**[cite: 8, 15, 27].
-* [cite_start]**Infrastructure as Code (IaC):** Specialist in **Terraform** and **CloudFormation** for repeatable, secure deployments[cite: 21, 53].
-* [cite_start]**GitOps & Orchestration:** Expert in **Kubernetes (OpenShift)** and **ArgoCD** for automated, auditable application delivery[cite: 96, 97].
+### ⭐ Key Highlights:
 
----
+- 🏢 **Enterprise Experience:** Currently leading DevOps for major financial platforms, including the **CBE SuperApp** and **Connect Ethiopia Remittance** for the Commercial Bank of Ethiopia
+- ☁️ **Multi-Cloud & Hybrid Mastery:** Hands-on experience with **AWS, Azure, Huawei Cloud, Oracle Cloud**, and on-premise solutions like **VMware vSphere** and **Dell VxRail**
+- 🏗️ **Infrastructure as Code (IaC):** Specialist in **Terraform** and **CloudFormation** for repeatable, secure deployments
+- 🚀 **GitOps & Orchestration:** Expert in **Kubernetes (OpenShift)** and **ArgoCD** for automated, auditable application delivery
 
-### 🛠 Tech Stack
+<hr style="border: 2px solid #00D9FF;" />
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Cloud Platforms** | [cite_start]AWS, Microsoft Azure, Oracle Cloud, Huawei Cloud, Alibaba Cloud [cite: 8] |
-| **Orchestration & Tools** | [cite_start]Kubernetes (OpenShift, CCE), Docker, Terraform, Ansible, ArgoCD [cite: 78, 96, 117] |
-| **CI/CD** | [cite_start]Jenkins, GitLab CI/CD, GitHub Actions [cite: 16, 51] |
-| **Virtualization/HCI** | [cite_start]VMware vSphere/vSAN, Dell VxRail, Nutanix, Hyper-V [cite: 9, 30] |
-| **Observability** | [cite_start]OpenTelemetry, Grafana, Loki, Prometheus, ELK Stack (Elasticsearch, Kibana) [cite: 102, 112] |
-| **Security & DB** | [cite_start]HashiCorp Vault, F5 Firewall, PostgreSQL, MongoDB, Oracle DB [cite: 99, 100, 111] |
-| **Languages** | [cite_start]Python (Django), Bash/Shell, JavaScript [cite: 10, 76] |
+## 🛠️ Tech Stack
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>☁️ Cloud Platforms</h3>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🐳 Orchestration</h3>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔧 IaC & Configuration</h3>
+      <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+      <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🚦 CI/CD</h3>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab%20CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💾 Databases</h3>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Observability</h3>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Loki-0DB7ED?style=for-the-badge&logo=grafana&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔐 Security & Virtualization</h3>
+      <img src="https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=hashicorp&logoColor=white" />
+      <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dell%20VxRail-0072BA?style=for-the-badge&logo=dell&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>💻 Programming Languages</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-### 🏆 Certifications
+<hr style="border: 2px solid #00D9FF;" />
 
-* [cite_start]**Microsoft:** Certified Azure Administrator & Azure Fundamentals [cite: 81, 89]
-* [cite_start]**AWS:** Certified Cloud Practitioner [cite: 85]
-* [cite_start]**CompTIA:** Server+ Certified [cite: 83]
-* [cite_start]**Oracle:** OCI 2023 Certified Foundations Associate [cite: 87]
-* [cite_start]**Fortinet:** Certified Associate in Cybersecurity [cite: 91]
+## 🏆 Certifications
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/CompTIA%20Server+-E34234?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20OCI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet%20Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+</div>
 
-### 🚀 Featured Projects
+<hr style="border: 2px solid #00D9FF;" />
 
-* [cite_start]**CBE SuperApp (Commercial Bank of Ethiopia):** Orchestrated a microservices architecture (30+ Golang services) on OpenShift, implementing full GitOps with ArgoCD and centralized secrets via HashiCorp Vault [cite: 96-100].
-* [cite_start]**Connect Ethiopia Remittance Solution:** Deployed a high-availability Node.js microservices platform with end-to-end observability using OpenTelemetry and the ELK stack[cite: 106, 112].
-* [cite_start]**Starpay Ethiopia Payment Gateway:** Built a scalable gateway on Huawei Cloud (CCE) using Kubernetes and integrated RabbitMQ for reliable messaging [cite: 116-118].
-* [cite_start]**Ministry of Revenues HCI:** Successfully implemented Dell VxRail Hyper-Converged Infrastructure and disaster recovery via vRPA4VM [cite: 121-123].
+## 🚀 Featured Projects
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+### 🏦 CBE SuperApp (Commercial Bank of Ethiopia)
+Orchestrated a microservices architecture (30+ Golang services) on OpenShift, implementing full GitOps with ArgoCD and centralized secrets management for enterprise-grade reliability.
+
+### 💰 Connect Ethiopia Remittance Solution
+Deployed a high-availability Node.js microservices platform with end-to-end observability using OpenTelemetry and the ELK stack for real-time monitoring and alerting.
+
+### 💳 Starpay Ethiopia Payment Gateway
+Built a scalable gateway on Huawei Cloud (CCE) using Kubernetes and integrated RabbitMQ for reliable messaging across multiple transaction channels.
+
+### 🏛️ Ministry of Revenues HCI
+Successfully implemented Dell VxRail Hyper-Converged Infrastructure and disaster recovery via vRPA4VM for critical government operations.
+
+</div>
+
+<hr style="border: 2px solid #00D9FF;" />
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduselamm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Abduselam's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduselamm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abduselamm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduselamm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img title="GitHub Streak" alt="Abduselam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abduselamm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abduselamm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
 </p>
 
----
+<hr style="border: 2px solid #00D9FF;" />
 
-### 📫 Connect with me:
-* [cite_start]**Email:** [dev.abduselam@gmail.com](mailto:dev.abduselam@gmail.com) [cite: 3]
-* [cite_start]**LinkedIn:** [linkedin.com/in/abduselamm/](https://www.linkedin.com/in/abduselamm/) [cite: 5]
-* [cite_start]**Location:** Addis Ababa, Ethiopia [cite: 13]
+## 📫 Connect with Me
+
+<p align="center">
+  <strong>Let's collaborate and build amazing infrastructure solutions together!</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:dev.abduselam@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-dev.abduselam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br />
+  <a href="https://www.linkedin.com/in/abduselamm/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-abduselamm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <br />
+  <a href="https://github.com/abduselamm">
+    <img src="https://img.shields.io/badge/🐙%20GitHub-abduselamm-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br />
+  <strong>📍 Location:</strong> Addis Ababa, Ethiopia
+</p>
+
+<hr style="border: 2px solid #00D9FF;" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abduselamm&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <strong>⭐ If you find my projects helpful, please consider giving them a star! ⭐</strong>
+</p>
