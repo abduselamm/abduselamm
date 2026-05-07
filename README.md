@@ -103,13 +103,15 @@ I am a **Senior DevOps Engineer and Solution Architect** with a proven track rec
 ## 🏆 Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/CompTIA%20Server+-E34234?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20OCI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet%20Cybersecurity-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+
+| # | Certification |
+|---|---|
+| 🟦 | **Microsoft:** Certified Azure Administrator & Azure Fundamentals |
+| 🟧 | **AWS:** Certified Cloud Practitioner |
+| 🟥 | **CompTIA:** Server+ Certified |
+| 🟦 | **Oracle:** OCI 2023 Certified Foundations Associate |
+| 🟧 | **Fortinet:** Certified Associate in Cybersecurity |
+
 </div>
 
 <hr style="border: 2px solid #00D9FF;" />
@@ -119,16 +121,22 @@ I am a **Senior DevOps Engineer and Solution Architect** with a proven track rec
 <div align="center">
 
 ### 🏦 CBE SuperApp (Commercial Bank of Ethiopia)
-Orchestrated a microservices architecture (30+ Golang services) on OpenShift, implementing full GitOps with ArgoCD and centralized secrets management for enterprise-grade reliability.
+**Orchestrated** a microservices architecture (30+ Golang services) on OpenShift, implementing full GitOps with ArgoCD and centralized secrets via HashiCorp Vault for enterprise-grade reliability.
+
+---
 
 ### 💰 Connect Ethiopia Remittance Solution
-Deployed a high-availability Node.js microservices platform with end-to-end observability using OpenTelemetry and the ELK stack for real-time monitoring and alerting.
+**Deployed** a high-availability Node.js microservices platform with end-to-end observability using OpenTelemetry and the ELK stack for real-time monitoring and alerting.
+
+---
 
 ### 💳 Starpay Ethiopia Payment Gateway
-Built a scalable gateway on Huawei Cloud (CCE) using Kubernetes and integrated RabbitMQ for reliable messaging across multiple transaction channels.
+**Built** a scalable gateway on Huawei Cloud (CCE) using Kubernetes and integrated RabbitMQ for reliable messaging across multiple transaction channels.
+
+---
 
 ### 🏛️ Ministry of Revenues HCI
-Successfully implemented Dell VxRail Hyper-Converged Infrastructure and disaster recovery via vRPA4VM for critical government operations.
+**Successfully implemented** Dell VxRail Hyper-Converged Infrastructure and disaster recovery via vRPA4VM for critical government operations.
 
 </div>
 
