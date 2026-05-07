@@ -1,63 +1,76 @@
-![image](https://user-images.githubusercontent.com/111492530/215350400-6d1076a7-7321-4185-94dd-7243b5d671e0.png)
-
-
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abduselam Mohammed</h1>
-    
-
-DevOps Engineer | Cloud Engineer | VMware | OpenShift | Azure | AWS | GCP
-
-🙋‍♂️ About Me!
-
-
-DevOps Engineer and Cloud & Systems Engineer with strong experience designing, automating, and operating scalable, secure, and highly available platforms across enterprise and cloud environments.
-
-Currently, I work as a Senior DevOps Engineer, where I design and manage cloud-native and hybrid infrastructures, implement CI/CD pipelines, and support microservices-based architectures in production environments. I have hands-on experience with Docker, Kubernetes (including OpenShift), GitOps using ArgoCD, and Infrastructure as Code with Terraform and CloudFormation.
-
-My background also includes extensive work in modern datacenter and cloud deployments, leveraging technologies such as AWS, Microsoft Azure, Oracle Cloud, Huawei Cloud, and private cloud platforms. I have deep expertise in VMware vSphere, vSAN, Dell VxRail, Nutanix, Veeam, and disaster recovery solutions, ensuring business continuity for mission-critical systems.
-
-I collaborate closely with development teams to automate workflows, enforce DevOps best practices, improve observability, and deliver reliable platforms using monitoring, logging, and tracing tools like Grafana, Loki, OpenTelemetry, and ELK. I am also comfortable using Python and Bash for automation and operational efficiency.
-
-I enjoy solving complex infrastructure challenges, building future-ready platforms, and continuously improving system performance, security, and scalability. I thrive in environments where cloud, DevOps, and infrastructure engineering intersect to deliver real business value.
-
-👯 I’m looking to collaborate on OpenSource Projects
-
-📫 How to reach me abduselamm555@gmail.com
-
-⚡ I love reading books
-
-
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-
-
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abduselam Hassen</h1>
 
 <p align="center">
-    <a href="https://github.com/abduselamm/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abduselamm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <strong>Senior DevOps Engineer | Cloud & System Architect | Infrastructure Specialist</strong><br>
+  Building secure, scalable, and automated enterprise platforms.
 </p>
 
-## 📊 My Github Stats
+<p align="center">
+  <a href="https://www.linkedin.com/in/abduselamm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dev.abduselam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-  <br/>
-    <a href="https://github.com/abduselamm/github-readme-stats"><img alt="Abduselam Mohammed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abduselamm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduselamm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+---
 
+### 🙋‍♂️ About Me
 
+I am a **Senior DevOps Engineer and Solution Architect** with a proven track record in designing and automating optimized enterprise systems. My expertise spans the entire lifecycle of cloud-native and hybrid infrastructures—from initial architecture to high-availability production operations.
 
+**Key Highlights:**
+* [cite_start]**Enterprise Experience:** Currently leading DevOps for major financial platforms, including the **CBE SuperApp** and **Connect Ethiopia Remittance** for the Commercial Bank of Ethiopia[cite: 96, 106].
+* [cite_start]**Multi-Cloud & Hybrid Mastery:** Hands-on experience with **AWS, Azure, Huawei Cloud, Oracle Cloud**, and on-premise solutions like **VMware vSphere** and **Dell VxRail**[cite: 8, 15, 27].
+* [cite_start]**Infrastructure as Code (IaC):** Specialist in **Terraform** and **CloudFormation** for repeatable, secure deployments[cite: 21, 53].
+* [cite_start]**GitOps & Orchestration:** Expert in **Kubernetes (OpenShift)** and **ArgoCD** for automated, auditable application delivery[cite: 96, 97].
 
+---
 
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | [cite_start]AWS, Microsoft Azure, Oracle Cloud, Huawei Cloud, Alibaba Cloud [cite: 8] |
+| **Orchestration & Tools** | [cite_start]Kubernetes (OpenShift, CCE), Docker, Terraform, Ansible, ArgoCD [cite: 78, 96, 117] |
+| **CI/CD** | [cite_start]Jenkins, GitLab CI/CD, GitHub Actions [cite: 16, 51] |
+| **Virtualization/HCI** | [cite_start]VMware vSphere/vSAN, Dell VxRail, Nutanix, Hyper-V [cite: 9, 30] |
+| **Observability** | [cite_start]OpenTelemetry, Grafana, Loki, Prometheus, ELK Stack (Elasticsearch, Kibana) [cite: 102, 112] |
+| **Security & DB** | [cite_start]HashiCorp Vault, F5 Firewall, PostgreSQL, MongoDB, Oracle DB [cite: 99, 100, 111] |
+| **Languages** | [cite_start]Python (Django), Bash/Shell, JavaScript [cite: 10, 76] |
+
+---
+
+### 🏆 Certifications
+
+* [cite_start]**Microsoft:** Certified Azure Administrator & Azure Fundamentals [cite: 81, 89]
+* [cite_start]**AWS:** Certified Cloud Practitioner [cite: 85]
+* [cite_start]**CompTIA:** Server+ Certified [cite: 83]
+* [cite_start]**Oracle:** OCI 2023 Certified Foundations Associate [cite: 87]
+* [cite_start]**Fortinet:** Certified Associate in Cybersecurity [cite: 91]
+
+---
+
+### 🚀 Featured Projects
+
+* [cite_start]**CBE SuperApp (Commercial Bank of Ethiopia):** Orchestrated a microservices architecture (30+ Golang services) on OpenShift, implementing full GitOps with ArgoCD and centralized secrets via HashiCorp Vault [cite: 96-100].
+* [cite_start]**Connect Ethiopia Remittance Solution:** Deployed a high-availability Node.js microservices platform with end-to-end observability using OpenTelemetry and the ELK stack[cite: 106, 112].
+* [cite_start]**Starpay Ethiopia Payment Gateway:** Built a scalable gateway on Huawei Cloud (CCE) using Kubernetes and integrated RabbitMQ for reliable messaging [cite: 116-118].
+* [cite_start]**Ministry of Revenues HCI:** Successfully implemented Dell VxRail Hyper-Converged Infrastructure and disaster recovery via vRPA4VM [cite: 121-123].
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abduselamm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Abduselam's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduselamm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img title="GitHub Streak" alt="Abduselam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abduselamm&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+---
+
+### 📫 Connect with me:
+* [cite_start]**Email:** [dev.abduselam@gmail.com](mailto:dev.abduselam@gmail.com) [cite: 3]
+* [cite_start]**LinkedIn:** [linkedin.com/in/abduselamm/](https://www.linkedin.com/in/abduselamm/) [cite: 5]
+* [cite_start]**Location:** Addis Ababa, Ethiopia [cite: 13]
